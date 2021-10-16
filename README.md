@@ -26,6 +26,7 @@ Il est possible que vous rencontriez quelques erreurs en jouant avec la vitesse
 je pense au fait que le rectangle soit bloquer en dehors des limites de l'écrans dans ce cas, redémarrez le programme
 
 ## FIN
+Vous pouvez toujours me donner des suggestions pour ameliorer ça ^^ 
 je suis assez jeune il est fort probable que j'ai fait des fautes si vous avez l'amabilité de me corriger je veux bien 
 
 vous pouvez me contacter sur discord ici : ***! Rêve#0008***
